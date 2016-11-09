@@ -1,0 +1,21 @@
+/*去掉标签的默认样式*/
+body,h1,h2,h3,h4,h5,h6,ul,ol,li,p,pre,form,input,textarea,dt,dd,dl{
+   margin:0;
+   padding:0;
+}
+ul,ol,li{
+   list-style:none;
+}
+a{
+   text-decoration:none;
+   color:#666;
+}
+*{
+font-family:"微软雅黑",sans-serif;
+}
+body{
+    font: normal 12px/1.5 "微软雅黑",Sans-Serif;
+}
+img{
+	margin:none;
+}
